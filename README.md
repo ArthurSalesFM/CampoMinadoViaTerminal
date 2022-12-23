@@ -1,9 +1,17 @@
 # Campo Minado Via Terminal
 
-Desenvolvido por Arthur Felipe MS
+**Desenvolvido por** *Arthur Felipe MS*
 
 ## Jogo campo minado sem interface gráfica
 
-### Criado na IDE Eclipse.
+### Desenvolvido em na IDE
 
-#### Conceitos utilizados (POO, Stream, Lambda Expression, Programação Funcional e Tratamento exceção).
+* *Eclipse*
+
+#### Conceitos utilizados 
+
+* *POO*
+* *Stream*
+* *Lambda Expression*
+* *Programação Funcional*
+* *Tratamento exceção*
