@@ -4,7 +4,7 @@
 
 ## Jogo campo minado sem interface gráfica
 
-### Desenvolvido em na IDE
+### Desenvolvido na IDE
 
 * *Eclipse*
 
